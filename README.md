@@ -9,7 +9,7 @@ In this project, we are going to investigate a dataset which contains informatio
  - Analyze and make conclusions on the correlation between these attributes, including some very interesting and/or strong relationships and hidden insights that we have found.
 ### Part 3: Multivariate Plots and Analysis
 - Dive deeper into the red wine dataset by examining the relationships between multiple features at the same time by making use of density and scatter plots.
-- Report on our findings of some significant relationships that we have identified in this section. A number of surprising interactions between features that has not been noticed in earlier parts is also mentioned.
+- Report on our findings of some significant relationships that we have identified in this section. A number of surprising interactions between features that have not been noticed in earlier parts are also mentioned.
 ### Part 4: Final Plots and Summary
 - Three most important findings throughout our project, including their accompanying plots and details are gathered together and documented in this last section.
 - Some final reflections on our effort, most notably challenges that we faced and managed to overcome in order to create a meaningful and comprehensive report on time for our readers.
